@@ -1,5 +1,5 @@
 ##  Comandos em Markdown 
 
-    TAG   |  COMANDO
-----------|----------
- h1       |     #
+TAG     |  COMANDO
+:------:|:--------:
+ h1     |     #
