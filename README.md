@@ -9,3 +9,4 @@ TAG     |  COMANDO
  h5     | #####
  h6     |######
 Negrito |** texto **
+Itálico |* texto *
