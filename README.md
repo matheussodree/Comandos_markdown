@@ -10,3 +10,4 @@ TAG     |  COMANDO
  h6     |######
 Negrito |** texto **
 Itálico |* texto *
+Link    |'[alt]'(img)
