@@ -11,3 +11,5 @@ TAG     |  COMANDO
 Negrito |** texto **
 Itálico |* texto *
 Link    |'[alt]'(img)
+Lista ordenada| 1.item1
+Lista desordenada| * item1
