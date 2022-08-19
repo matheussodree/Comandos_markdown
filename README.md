@@ -1,4 +1,4 @@
-##  Comandos em Markdown 
+##  Commands in Markdown 
 
 TAG     |  COMANDO
 :------:|:--------:
@@ -11,5 +11,5 @@ TAG     |  COMANDO
 Negrito |** texto **
 Itálico |* texto *
 Link    |'[alt]'(img)
-Lista ordenada| 1.item1
-Lista desordenada| * item1
+Ordered list| 1.item1
+Disordered list| * item1
